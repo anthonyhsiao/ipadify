@@ -2,9 +2,11 @@
 %html{:xmlns => "http://www.w3.org/1999/xhtml"}
   %head
     %title JavaScript - Browser detect
-    %script{:type => "text/javascript"}
-      = render :partial => "detection_script"
+    %script{:type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"}
+
   %body
     %h1 This script will ipadify your webpages for iPad users
+    = render :partial => "example_page"
     %script{:type => "text/javascript"}
-      document.write('<p class="accent">You\'re using ' + BrowserDetect.browser + ' ' + BrowserDetect.version + ' on ' + BrowserDetect.OS + '!</p>');
+      = render :partial => "detection_script"
+    %style{:type => "text/css", :media =>"screen"} body.iPadify a {-webkit-border-radius:1em !important; background:lightGreen !important; border:2px solid green !important; color:white !important; font-weight:bold; padding:0.2em 0.5em;}

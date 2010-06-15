@@ -379,3 +379,1540 @@ Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:05:55) [G
 Rendering application/index
 Rendered application/_detection_script (15.0ms)
 Completed in 46ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:39:46) [GET]
+Rendering application/index
+Completed in 94ms (View: 79, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:42:23) [GET]
+Rendering application/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:42:32) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 218ms (View: 218, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:46:58) [GET]
+Rendering application/index
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:47:05) [GET]
+Rendering application/index
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.223 at 2010-06-16 00:47:54) [GET]
+Rendering application/index
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:48:37) [GET]
+Rendering application/index
+Completed in 78ms (View: 78, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:48:42) [GET]
+Rendering application/index
+Completed in 156ms (View: 140, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:50:51) [GET]
+Rendering application/index
+Completed in 62ms (View: 62, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:51:03) [GET]
+Rendering application/index
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:51:10) [GET]
+Rendering application/index
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:52:00) [GET]
+Rendering application/index
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:52:03) [GET]
+Rendering application/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:52:41) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:52:44) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:53:13) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 00:53:17) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:56:16) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Rendered application/_example_page (578.0ms)
+Completed in 875ms (View: 875, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:56:23) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:03) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Rendered application/_example_page (437.0ms)
+Completed in 469ms (View: 469, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:08) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:27) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 172ms (View: 172, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:49) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (16.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:57:53) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:07) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:12) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:27) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:30) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:49) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 63ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:00:53) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:01:02) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 46ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:01:06) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:01:26) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 62ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:01:30) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:03:56) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 62ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:04:02) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:05:50) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (16.0ms)
+Completed in 187ms (View: 187, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:05:55) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:06:28) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:06:34) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:06:50) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:06:55) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:07:11) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 171ms (View: 171, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:07:16) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:08:41) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:08:49) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:52) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:53) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:54) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:55) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:57) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:58) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:08:59) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:09:25) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:28) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:30) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:09:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:34) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:09:46) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 172ms (View: 172, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:48) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:49) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:50) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:09:52) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:52) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:53) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:09:53) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:10:07) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (16.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:10:12) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:11:55) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 172ms (View: 172, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:12:00) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:12:09) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:12:16) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:12:33) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 62ms (View: 62, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:12:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:40) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 172ms (View: 157, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:41) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:42) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:45) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:45) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:12:48) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:13:28) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:13:29) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:13:30) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:13:33) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:13:42) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 63ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:13:47) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:14:00) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (16.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:03) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:14:05) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:06) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:07) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:08) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:11) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:11) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:14:13) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.223 at 2010-06-16 01:14:26) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 187ms (View: 171, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.223 at 2010-06-16 01:14:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:15:48) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:15:52) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:21:11) [GET]
+Rendering application/index
+
+ActionView::TemplateError (Illegal nesting: content can't be both given on the same line as %style and nested within it.) on line #14 of app/views/application/index.haml:
+11:       = render :partial => "detection_script"
+12:     %style{:type => "text/css", :media =>"screen"} body.iPadify a {font-size: 120% !important; background: red !important; padding: 10px; font-weight: bold;}
+13:       
+14:       body.iPadify a {-moz-border-radius:1em !important; background:lightGreen !important; border:2px solid green !important; color:white !important; font-weight:bold; padding:0.1em 0.5em;}
+
+    app/views/application/index.haml:14
+    haml (2.0.9) lib/haml/precompiler.rb:585:in `render_tag'
+    haml (2.0.9) lib/haml/precompiler.rb:192:in `process_line'
+    haml (2.0.9) lib/haml/precompiler.rb:156:in `precompile'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `each'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `each_with_index'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `precompile'
+    haml (2.0.9) lib/haml/engine.rb:100:in `initialize'
+    haml (2.0.9) rails/./lib/haml/template/plugin.rb:21:in `new'
+    haml (2.0.9) rails/./lib/haml/template/plugin.rb:21:in `compile'
+    haml (2.0.9) lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) rails/./lib/sass/plugin/rails.rb:19:in `process'
+
+Rendered rescues/_trace (234.0ms)
+Rendered rescues/_request_and_response (31.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:21:47) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 297ms (View: 281, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:21:54) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:21:56) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:21:57) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:21:58) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:22:01) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:22:01) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:22:03) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:22:59) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:23:00) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:23:01) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:23:04) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:23:04) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:23:05) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:25:58) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 63ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:02) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (16.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:03) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:26:04) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:09) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:10) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:26:11) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 219ms (View: 219, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:15) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:26:16) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:17) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:17) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:20) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:20) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:21) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:53) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:54) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:55) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:57) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:57) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:26:58) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:04) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:05) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:06) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:09) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:09) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:10) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:25) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:26) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:27) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:29) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:29) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:30:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:14) [GET]
+Rendering application/index
+Rendered application/_example_page (156.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 235ms (View: 235, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:15) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:16) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:19) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:20) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:27) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 46ms (View: 46, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:28) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:29) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:31) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:31:33) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:36) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 234ms (View: 234, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:37) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:41) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:41) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:39:42) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:11) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:40:19) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:40:25) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:33) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 172ms (View: 172, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:34) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:35) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:39) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:57) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:58) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:40:59) [GET]
+Rendering application/index
+Rendered application/_example_page (15.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:40:59) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:02) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:02) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:03) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 01:41:05) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:33) [GET]
+Rendering application/index
+Rendered application/_example_page (0.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:34) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:35) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:38) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:40) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:46) [GET]
+Rendering application/index
+Rendered application/_example_page (16.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:47) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:48) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:51) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:51) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:41:52) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:09) [GET]
+Rendering application/index
+Rendered application/_example_page (157.0ms)
+Rendered application/_detection_script (0.0ms)
+Completed in 203ms (View: 188, DB: 0) | 200 OK [http://192.168.1.14/]
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:10) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:12) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:14) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:14) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.1.24 at 2010-06-16 01:42:16) [GET]
+
+ActionController::RoutingError (No route matches "/adx/bin/clientside/55552db1Q2F_KDQ5EAyL9pMhIn9Q5EFQ2FLQ5CIypQ2F" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
