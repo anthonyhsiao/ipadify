@@ -1,0 +1,381 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:38:03) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:38:31) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:38:46) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:40:04) [GET]
+
+ActionView::MissingTemplate (Missing template application/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:40:26) [GET]
+
+ActionView::MissingTemplate (Missing template application/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:41:01) [GET]
+Rendering application/index
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:41:18) [GET]
+Rendering application/index
+Completed in 156ms (View: 156, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:41:32) [GET]
+Rendering application/index
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:42:28) [GET]
+Rendering application/index
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:42:58) [GET]
+Rendering application/index
+ERROR: compiling _run_haml_app47views47application47index46haml RAISED compile error
+E:/ipadify/app/views/application/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting ')'
+...> "text/html, :charset => "utf-8");
+                              ^
+E:/ipadify/app/views/application/index.haml:5: syntax error, unexpected tSTRING_BEG, expecting kEND
+...text/html, :charset => "utf-8");
+                              ^
+E:/ipadify/app/views/application/index.haml:9: unknown regexp options - bdy
+E:/ipadify/app/views/application/index.haml:9: syntax error, unexpected $undefined
+...<body>\n    Hellow\n  </body>\n</html>\n", false, -2);@haml_...
+                              ^
+E:/ipadify/app/views/application/index.haml:9: unterminated string meets end of file
+E:/ipadify/app/views/application/index.haml:9: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR
+Function body:           def _run_haml_app47views47application47index46haml(local_assigns)
+            old_output_buffer = output_buffer;;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:format=>:xhtml, :attr_wrapper=>"'", :preserve=>["textarea", "pre"], :autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :ugly=>false});_erbout = _hamlout.buffer;__in_erb_template = true;;
+
+
+
+_hamlout.push_text("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html>\n  <head>\n    <title>JavaScript - Browser detect</title>\n", false, 2);_hamlout.open_tag("meta", true, true, false, false, {}, false, false, nil, nil, :http-equiv => "Content-Type", :content => "text/html, :charset => "utf-8");
+
+
+
+_hamlout.push_text("  </head>\n  <body>\n    Hellow\n  </body>\n</html>\n", false, -2);@haml_buffer = @haml_buffer.upper;_erbout;
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: E:/ipadify/app/views/application/index.haml:9:in `compile!'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render_without_haml'
+C:/Ruby/lib/ruby/gems/1.8/gems/haml-2.0.9/lib/haml/helpers/action_view_mods.rb:14:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+C:/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `sass_old_process'
+C:/Ruby/lib/ruby/gems/1.8/gems/haml-2.0.9/rails/../lib/sass/plugin/rails.rb:19:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+C:/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:101:in `dispatch_cgi'
+C:/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:27:in `dispatch'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/rails.rb:76:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/rails.rb:74:in `process'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:159:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:158:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:158:in `process_client'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:285:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:285:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:285:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:268:in `initialize'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:268:in `new'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel.rb:268:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/configurator.rb:282:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/configurator.rb:281:in `each'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/configurator.rb:281:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/mongrel_rails:128:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/../lib/mongrel/command.rb:212:in `run'
+C:/Ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/bin/mongrel_rails:281
+C:/Ruby/bin/mongrel_rails:19:in `load'
+C:/Ruby/bin/mongrel_rails:19
+
+ActionView::TemplateError (compile error
+E:/ipadify/app/views/application/index.haml:5: syntax error, unexpected tIDENTIFIER, expecting ')'
+...> "text/html, :charset => "utf-8");
+                              ^
+E:/ipadify/app/views/application/index.haml:5: syntax error, unexpected tSTRING_BEG, expecting kEND
+...text/html, :charset => "utf-8");
+                              ^
+E:/ipadify/app/views/application/index.haml:9: unknown regexp options - bdy
+E:/ipadify/app/views/application/index.haml:9: syntax error, unexpected $undefined
+...<body>\n    Hellow\n  </body>\n</html>\n", false, -2);@haml_...
+                              ^
+E:/ipadify/app/views/application/index.haml:9: unterminated string meets end of file
+E:/ipadify/app/views/application/index.haml:9: syntax error, unexpected tSTRING_END, expecting tSTRING_CONTENT or tREGEXP_END or tSTRING_DBEG or tSTRING_DVAR) on line #5 of app/views/application/index.haml:
+2: %html
+3:   %head
+4:     %title JavaScript - Browser detect
+5:     %meta{:http-equiv => "Content-Type", :content => "text/html, :charset => "utf-8"}
+6:   %body
+7:     Hellow
+
+    app/views/application/index.haml:9:in `compile!'
+    haml (2.0.9) lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) rails/./lib/sass/plugin/rails.rb:19:in `process'
+
+Rendered rescues/_trace (141.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:43:09) [GET]
+Rendering application/index
+
+ActionView::TemplateError (undefined local variable or method `equiv' for #<ActionView::Base:0x68ec7f8>) on line #5 of app/views/application/index.haml:
+2: %html
+3:   %head
+4:     %title JavaScript - Browser detect
+5:     %meta{:http-equiv => "Content-Type", :content => "text/html", :charset => "utf-8"}
+6:   %body
+7:     Hellow
+
+    app/views/application/index.haml:5:in `_run_haml_app47views47application47index46haml'
+    haml (2.0.9) lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) rails/./lib/sass/plugin/rails.rb:19:in `process'
+
+Rendered rescues/_trace (296.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:43:31) [GET]
+Rendering application/index
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:44:24) [GET]
+Rendering application/index
+
+ActionView::TemplateError (Illegal nesting: nesting within plain text is illegal.) on line #9 of app/views/application/index.haml:
+6:     %script
+7:       var BrowserDetect = {
+8:       init: function () {
+9:         this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+10:         this.version = this.searchVersion(navigator.userAgent)
+11:           || this.searchVersion(navigator.appVersion)
+12:           || "an unknown version";
+
+    app/views/application/index.haml:9
+    haml (2.0.9) lib/haml/precompiler.rb:314:in `push_plain'
+    haml (2.0.9) lib/haml/precompiler.rb:228:in `process_line'
+    haml (2.0.9) lib/haml/precompiler.rb:156:in `precompile'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `each'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `each_with_index'
+    haml (2.0.9) lib/haml/precompiler.rb:122:in `precompile'
+    haml (2.0.9) lib/haml/engine.rb:100:in `initialize'
+    haml (2.0.9) rails/./lib/haml/template/plugin.rb:21:in `new'
+    haml (2.0.9) rails/./lib/haml/template/plugin.rb:21:in `compile'
+    haml (2.0.9) lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) rails/./lib/sass/plugin/rails.rb:19:in `process'
+
+Rendered rescues/_trace (156.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:50:26) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 234ms (View: 219, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:50:36) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 63ms (View: 63, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:51:28) [GET]
+Rendering application/index
+Rendered application/_detection_script (15.0ms)
+Completed in 203ms (View: 203, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:52:17) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 328ms (View: 313, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:52:33) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:52:52) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 31ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:53:00) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:53:13) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:53:18) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:54:49) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:55:23) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 46ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:56:07) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 125ms (View: 125, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:57:22) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 281ms (View: 281, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:57:26) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 62ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-15 23:59:57) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 78ms (View: 78, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:01:03) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 125ms (View: 125, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:01:36) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 312ms (View: 312, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:02:14) [GET]
+Rendering application/index
+Rendered application/_detection_script (16.0ms)
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:04:11) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:04:14) [GET]
+Rendering application/index
+Rendered application/_detection_script (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:05:29) [GET]
+Rendering application/index
+Rendered application/_detection_script (15.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-16 00:05:55) [GET]
+Rendering application/index
+Rendered application/_detection_script (15.0ms)
+Completed in 46ms (View: 46, DB: 0) | 200 OK [http://localhost/]

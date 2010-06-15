@@ -1,0 +1,10 @@
+!!!
+%html{:xmlns => "http://www.w3.org/1999/xhtml"}
+  %head
+    %title JavaScript - Browser detect
+    %script{:type => "text/javascript"}
+      = render :partial => "detection_script"
+  %body
+    %h1 This script will ipadify your webpages for iPad users
+    %script{:type => "text/javascript"}
+      document.write('<p class="accent">You\'re using ' + BrowserDetect.browser + ' ' + BrowserDetect.version + ' on ' + BrowserDetect.OS + '!</p>');
