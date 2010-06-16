@@ -1,4 +1,4 @@
-if (navigator.platform == 'iPad') {
+if (navigator.platform == 'iPad') { 
   document.body.className += " iPadified";
   var newSS=document.createElement('link');
   newSS.rel='stylesheet';
