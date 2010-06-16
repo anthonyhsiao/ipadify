@@ -9,5 +9,6 @@ Simply put this one line of code into your html:
 ToDo:
  - Accept parameters to dynamically change certain CSS properties
  - Themes
+ - Make it more pretty!
  
  The code is a simple rails app hosted on heroku.
