@@ -7,11 +7,9 @@ class ApplicationController < ActionController::Base
 
   # Scrub sensitive parameters from your log
   # filter_parameter_logging :password
+  
   def index
     
   end
   
-  def ipadify
-  
-  end
 end
