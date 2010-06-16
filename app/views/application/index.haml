@@ -7,6 +7,5 @@
   %body
     %h1 This script will ipadify your webpages for iPad users
     = render :partial => "example_page"
-    %script{:type => "text/javascript"}
-      = render :partial => "detection_script"
-    %style{:type => "text/css", :media =>"screen"} body.iPadify a {-webkit-border-radius:1em !important; background:lightGreen !important; border:2px solid green !important; color:white !important; font-weight:bold; padding:0.2em 0.5em;}
+    %script{:type => "text/javascript", :src => '/ipadify.js'}
+    

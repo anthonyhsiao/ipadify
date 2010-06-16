@@ -1,0 +1,9 @@
+body.iPadified a {
+  -webkit-border-radius:1em !important; 
+  background:lightGreen !important; 
+  border:2px solid green !important; 
+  color:white !important; 
+  font-weight:bold; 
+  padding:0.2em 0.5em;
+  line-height:2em;
+}
